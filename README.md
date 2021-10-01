@@ -1,5 +1,5 @@
 # scraping
 ruby version: 2.7.2
-You have to downlord chromedriver which same version of your chrome.
+You need to downlord the chromedriver that matches the version of chrome being used.
 
-I only confirmed the operation on mac.
+This program has been confirmed to work on macOS.
